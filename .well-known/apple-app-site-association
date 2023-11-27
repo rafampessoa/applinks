@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "4H47N27L53.br.com.toroinvestimentos"
+        ],
+        "components": [
+          {
+            "/": "/open-banking/security/v2/toro/authorization",
+            "comment": "Abrindo consentimento para Toro Investimentos"
+          }
+        ]
+      }
+    ]
+  }
+}
