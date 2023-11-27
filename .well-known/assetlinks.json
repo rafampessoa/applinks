@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.toroinvestimentos",
+      "sha256_cert_fingerprints": [
+        "0D:33:35:8F:93:CC:0D:62:4C:3B:0D:DB:09:74:20:C5:53:13:E5:32:EB:57:58:31:3B:D6:03:5A:6F:B4:D0:EA"
+      ]
+    }
+  }
+]
